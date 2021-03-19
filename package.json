@@ -13,7 +13,7 @@
     "eslint": "7.22.0",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-import": "2.22.1",
-    "parcel-bundler": "1.12.4",
+    "parcel-bundler": "1.12.5",
     "prettier": "2.2.1"
   },
   "browserslist": [
